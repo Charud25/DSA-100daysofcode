@@ -11,8 +11,7 @@
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 
 
