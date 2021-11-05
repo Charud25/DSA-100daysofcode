@@ -18,7 +18,9 @@
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [3Sum](https://leetcode.com/problems/3sum/)
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+
 
 
 
