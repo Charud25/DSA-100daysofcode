@@ -13,5 +13,13 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
+## DAY-3
+- [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+
 
 
