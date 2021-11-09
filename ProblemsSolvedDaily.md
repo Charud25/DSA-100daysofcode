@@ -13,7 +13,7 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
-## DAY-3
+## DAY-3 AND 4
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
@@ -21,6 +21,11 @@
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 
+## DAY-5
+DIDN'T DO QUESTIONS ;)
+
+## DAY-6
+- [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
 
 
 
