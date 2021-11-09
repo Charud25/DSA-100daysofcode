@@ -26,7 +26,8 @@ DIDN'T DO QUESTIONS ;)
 
 ## DAY-6
 - [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
-
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 
 
