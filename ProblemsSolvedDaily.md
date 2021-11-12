@@ -21,13 +21,17 @@
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 
-## DAY-5
+## DAY-5 AND 6
 DIDN'T DO QUESTIONS ;)
 
-## DAY-6
+## DAY-7
 - [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+## DAY-8
+- [Largest Number](https://leetcode.com/problems/largest-number/)
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 
 
