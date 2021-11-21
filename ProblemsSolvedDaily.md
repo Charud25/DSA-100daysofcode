@@ -36,5 +36,9 @@ DIDN'T DO QUESTIONS ;)
 ## DAY- 11
 - LINKED LIST (INSERTION DELETION AND DISPLAY )
 
+## DAY- 12
+- Doubly LinkedList -Insertion , deletion and Display
+- Reversal of LinkedList
+- Circular LinkedList -Insertion , deletion and Display
 
 
