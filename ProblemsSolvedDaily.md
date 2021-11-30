@@ -61,6 +61,13 @@ REVISED LINKED LIST
 
 ## DAY- 16
 - REVERSE LL IN K PAIRS
-- [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
--  [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+
+## DAY- 17
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+- [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
+
+## DAY- 18
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 
