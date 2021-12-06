@@ -71,3 +71,9 @@ REVISED LINKED LIST
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
+
+## DAY- 19
+- STACKS -
+- [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
+- [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
+- BUBBLE SORT ON LL
