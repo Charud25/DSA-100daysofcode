@@ -83,6 +83,6 @@ REVISED LINKED LIST
 
 ## DAY- 21
 - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
+- Nearest Smaller Element on Left & Right side of an Array
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
-- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - Reverse a Stack
