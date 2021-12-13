@@ -73,7 +73,18 @@ REVISED LINKED LIST
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 
 ## DAY- 19
-- STACKS - 
+- STACKS 
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
 - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - BUBBLE SORT ON LL
+
+## DAY- 20
+- Stacks- Stack using Arrays & LinkedList and STL
+
+## DAY- 21
+- Nearest Smaller Element on Left side of an Array
+- Nearest Smaller Element on Right side of an Array 
+- Parentheses Matching Problem
+- Largest Rectangular Area in a Histogram
+- Reverse a Sentence using Stacks
+- Reverse a Stack
