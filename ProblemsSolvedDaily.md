@@ -82,8 +82,7 @@ REVISED LINKED LIST
 - Stacks- Stack using Arrays & LinkedList and STL
 
 ## DAY- 21
-- Nearest Smaller Element on Left & Right side of an Array 
-- Parentheses Matching Problem
-- Largest Rectangular Area in a Histogram
-- Reverse a Sentence using Stacks
+- [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
+- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - Reverse a Stack
