@@ -82,8 +82,7 @@ REVISED LINKED LIST
 - Stacks- Stack using Arrays & LinkedList and STL
 
 ## DAY- 21
-- Nearest Smaller Element on Left side of an Array
-- Nearest Smaller Element on Right side of an Array 
+- Nearest Smaller Element on Left & Right side of an Array 
 - Parentheses Matching Problem
 - Largest Rectangular Area in a Histogram
 - Reverse a Sentence using Stacks
