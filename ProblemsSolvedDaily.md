@@ -86,3 +86,9 @@ REVISED LINKED LIST
 - Nearest Smaller Element on Left & Right side of an Array
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 - Reverse a Stack
+
+## DAY- 22
+- Insert element at bottom of stack
+- Reverse a no.
+- Maximum area rectangle
+
