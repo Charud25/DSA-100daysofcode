@@ -89,6 +89,13 @@ REVISED LINKED LIST
 
 ## DAY- 22
 - Insert element at bottom of stack
-- Reverse a no.
+- Reverse a no. and string
 - Maximum area rectangle
+
+## DAY- 23
+- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
+- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
+- [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
+- [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
+
 
