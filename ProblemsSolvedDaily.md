@@ -92,7 +92,7 @@ REVISED LINKED LIST
 - Reverse a no. and string
 - Maximum area rectangle
 
-## DAY- 23
+## DAY- 23 & 24
 - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
