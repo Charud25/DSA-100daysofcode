@@ -100,4 +100,7 @@ REVISED LINKED LIST
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - Remove All Adjacent Duplicates In String
 
-
+## DAY- 25
+- [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
+- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
+- [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
