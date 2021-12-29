@@ -104,5 +104,11 @@ REVISED LINKED LIST
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 
-## DAY- 26
+## DAY- 26 & 27
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
+-  Queues - STL, Implementation using Array and Circular Array and forming Queue using Two Stacks 
+
+## DAY- 28
+-  Implement Stack using Two Queues 
+-  Flatten a Multilevel Linked List into a Singly Linked List 
+-  Deque Data Structure and solved one problem of [Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
