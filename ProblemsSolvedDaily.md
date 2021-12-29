@@ -114,3 +114,15 @@ REVISED LINKED LIST
 -  Deque Data Structure and solved one problem of [Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 
 ## DAY- 29
+- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
+- [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
+- [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
+- [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
+
+## DAY- 30
+- [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
+- [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
+- [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
+
+
+## DAY- 31
