@@ -117,6 +117,7 @@ REVISED LINKED LIST
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
 - [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
+- [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
 
 ## DAY- 30
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
