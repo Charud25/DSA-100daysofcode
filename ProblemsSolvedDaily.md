@@ -98,7 +98,7 @@ REVISED LINKED LIST
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
-- Remove All Adjacent Duplicates In String
+- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 
 ## DAY- 25
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
@@ -114,7 +114,6 @@ REVISED LINKED LIST
 -  Deque Data Structure and solved one problem of [Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 
 ## DAY- 29
-- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
 - [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
