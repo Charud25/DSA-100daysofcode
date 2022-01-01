@@ -120,9 +120,8 @@ REVISED LINKED LIST
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
 
 ## DAY- 30
-- [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
-- [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
-- [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
+- TREE DATA STRUCTURE
+- [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 
 
 ## DAY- 31
