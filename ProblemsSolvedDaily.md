@@ -120,7 +120,8 @@ REVISED LINKED LIST
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
 
 ## DAY- 30
-- TREE DATA STRUCTURE
+- First non-repeating letter
+- InterLeave 2 queues
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 
 
