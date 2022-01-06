@@ -126,3 +126,5 @@ REVISED LINKED LIST
 
 
 ## DAY- 31
+- Studied about generic trees .
+- Learnt to take input and print tree recursively ,count no.nodes, sum of all nodes and find node with largest data.
