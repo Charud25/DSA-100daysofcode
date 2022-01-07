@@ -125,6 +125,13 @@ REVISED LINKED LIST
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 
 
-## DAY- 31
+## DAY- 31,32 & 33
 - Studied about generic trees .
-- Learnt to take input and print tree recursively ,count no.nodes, sum of all nodes and find node with largest data.
+- Learnt to take input and print tree recursively 
+- count no.nodes
+- sum of all nodes 
+- find node with largest data
+
+## DAY- 34
+- 
+
