@@ -133,5 +133,9 @@ REVISED LINKED LIST
 - find node with largest data
 
 ## DAY- 34
-- 
+- Height of tree
+- depth of node 
+- count leaf nodes
+- pre  and post order traversal
+- delete a tree
 
