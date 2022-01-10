@@ -139,3 +139,9 @@ REVISED LINKED LIST
 - pre  and post order traversal
 - delete a tree
 
+## DAY- 35
+- BINARY TREES
+-  Input and print tree recursively 
+-  count no.nodes 
+-  find height of tree 
+-  mirror binary tree.
