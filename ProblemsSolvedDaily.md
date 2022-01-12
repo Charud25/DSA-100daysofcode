@@ -144,4 +144,10 @@ REVISED LINKED LIST
 -  Input and print tree recursively 
 -  count no.nodes 
 -  find height of tree 
--  mirror binary tree.
+-  mirror binary tree
+
+## DAY- 36 & 37
+- Inorder ,postorder and preorder travesal
+- diameter of tree
+- min and max in binary tree
+- 2 questions on bit manipulation
