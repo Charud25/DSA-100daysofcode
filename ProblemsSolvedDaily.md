@@ -151,3 +151,35 @@ REVISED LINKED LIST
 - diameter of tree
 - min and max in binary tree
 - 2 questions on bit manipulation
+
+## DAY- 38 
+- Started with binary search trees : Learnt to insert and delete node  and types of balanced BSTs
+
+## DAY- 39 & 40
+Solved 7 ques on BST and binary trees:
+- Search in BST
+- Print Elements in a range 
+- Check if given tree is BST or not
+- Construct BST from a sorted array
+- Convert BST to Linked list
+- Root to Node path in binary tree
+- Insert duplicate Node
+
+## Day 41 
+- Studied about hashmaps today and revised some questions of BST.
+
+## Day 42 
+- Studied about inbuilt hashmaps today and solved two questions .
+
+## Day 43 
+- Studied about bucket array , Hash function and Collision handling.
+
+## Day 44 
+- Studied HashMaps Implementation  - Insert , delete , search and their time complexity and load factor .
+
+## Day 45 
+- Studied about Rehashing today and solved 3 questions related to hashmaps .
+
+## Day 46 & 47 
+- Started with priority queues and its implementation . 
+- Also studied about heap data structure and solved 2 questions to find Kth largest and smallest elements in array.
