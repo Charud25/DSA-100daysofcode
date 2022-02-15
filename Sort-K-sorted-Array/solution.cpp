@@ -1,9 +1,3 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include<queue>
-using namespace std;
- 
 void sortK(int arr[], int n, int k){
 
  // Creates a min heap
@@ -27,20 +21,4 @@ void sortK(int arr[], int n, int k){
     }
     
 
-}
-
-int main()
-{
-    int n;
-    cin>>n;
-    int arr[n];
-    for(int i = 0 ; i<n ; i++){
-        int data;
-        cin>>data;
-        arr[i]=data;
-    }
-    int k;
-    cin>>k;
-    sortK(arr, n, k);
-    return 0;
 }
