@@ -25,13 +25,13 @@ public:
             return root;
         }
         
-        if (root->val < low) {
-            // return right subtree if the root is less than low.
-            return trimBST(root->right, low, high);
-        }
+        // if root is less than low its mean all its left childs  than low so discard them
+        if(root -> val < low){
+            return trimBST(root -> right,low,high);
             
-        // return left subtree if the root is greater than high.
-        return trimBST(root->left, low, high);
+        }
+         // if root is greater than high its mean all its right childs greater than it so discard them
+            return trimBST(root -> left,low,high);
         
     }
 };
