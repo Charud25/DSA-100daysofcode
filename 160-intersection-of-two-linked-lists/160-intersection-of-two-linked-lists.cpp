@@ -43,16 +43,14 @@ public:
                 d--;
             }
         }
-        while(headA!=nullptr && headB!=nullptr)
+        while(headA!= headB)
         {
-            if(headA==headB)
-            {
-                return headA;
-            }
+           
             headA = headA->next;
             headB = headB->next;
+        
         }
-        return nullptr;  
+        return headA;  
         
     }
 };
