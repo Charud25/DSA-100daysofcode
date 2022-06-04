@@ -32,7 +32,9 @@ public:
         if(l1) 
         {temp->next = l1;}
         else
-        {temp -> next = l2;}
+        {
+            temp -> next = l2;
+        }
         
         return head -> next;
         }
